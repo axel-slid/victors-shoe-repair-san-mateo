@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://victors-shoe-repair-san-mateo.vercel.app/sitemap.xml
